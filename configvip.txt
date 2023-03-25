@@ -1,0 +1,3 @@
+vless://ea0bbba4-7fcf-4759-d3af-000dd373e7ae@mci.kotala.cloud:2053?encryption=none&security=tls&sni=pup.kotala.cloud&type=grpc#mci-pupvpn/همراه اول
+vless://f39fa89b-efb2-4a8f-ad3e-0ec065d3d750@irancell.kotala.cloud:2053?encryption=none&security=tls&sni=pup.kotala.cloud&type=grpc#irancell-pupvpn/ایرانسل
+vless://0f54aa25-b936-485c-e843-e6972cfd7dd5@modem.kotala.cloud:2053?encryption=none&security=tls&sni=pup.kotala.cloud&type=grpc#modem-pupvpn/مودم
