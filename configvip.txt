@@ -2,3 +2,4 @@ vless://efff6655-e5ac-4f04-e846-40eddc6986dd@mcit.technopin.shop:2096?type=grpc&
 vless://0c81b18a-0bbb-42d9-f2a2-b297b9fc4a93@irancell.plarapp.shop:2096?type=grpc&security=tls&serviceName=&sni=puppanell.plarapp.shop&flow=#irancell%2F%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 vless://41474afc-855a-4a66-af45-053f7aa10ca6@mkh.plarapp.shop:2096?type=grpc&security=tls&serviceName=&sni=puppanell.plarapp.shop&flow=#modem%2F%D9%85%D9%88%D8%AF%D9%85
 vless://36e736d7-0014-4383-b8f6-7fa514f1012c@mcio.technopin.shop:2096?type=grpc&serviceName=&security=tls&fp=&alpn=h2%2Chttp%2F1.1&sni=holo2.technopin.shop#-mci%2F%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%20%DA%A9%D9%85%DA%A9%DB%8C
+vless://0c81b18a-0bbb-42d9-f2a2-b297b9fc4a93@mtn.technopin.shop:2096?type=grpc&security=tls&serviceName=&sni=puppanell.plarapp.shop&flow=#irancell-کمکی
